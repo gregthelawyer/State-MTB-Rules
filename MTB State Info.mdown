@@ -6,19 +6,19 @@
 **Alabama (AL)**
 
 *Statutory Citation of Money Transmitter Laws*<br>
-+ -<br>
++ [Ala. Code Sec 8-7-1](http://asc.state.al.us/securities_act_title_7.htm)<br>
 
 *Statutory Citation of Licensing Requirement*<br>
-+ -<br>
++ [Ala. Code Sec 8-7-3](http://asc.state.al.us/Acts/Rule%208-7-3.htm)<br>
 
 *Regulatory Citation of Money Transmitter Regulations*<br>
-+ -<br>
++ None<br>
 
 *Regulatory Citation of Licensing Requirement*<br>
-+ -<br>
++ None<br>
 
 *Link to Application for Money Transmitter License*<br>
-+ -<br>
++ [Application](http://asc.state.al.us/Acts/Rule%208-7-3.htm)<br>
 
 *Prerequisites to Filing Application for MTB License*<br>
 + -<br>
@@ -27,16 +27,16 @@
 + -<br>
 
 *Statutory Definition of Money Transmission (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Statutory Definition of Money Transmitter (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Statutory Definition of Other Relevant Terms (Including Citation)*<br>
-+ -<br>
++ "Check" means any check, draft, money order, or other instrument for the transmission or payment of money. [Section 8-7-2(3)]<br>
 
 *Regulatory Definition of Money Transmission (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Regulatory Definition of Money Transmitter (Including Citation)*<br>
 + -<br>
@@ -70,19 +70,19 @@
 **Alaska (AK)**
 
 *Statutory Citation of Money Transmitter Laws*<br>
-+ -<br>
++ [A.S.  06.55](http://commerce.alaska.gov/bsc/pub/MoneyservicesStatutes.pdf)<br>
 
 *Statutory Citation of Licensing Requirement*<br>
-+ -<br>
++ [A.S. 06.55.201](http://commerce.alaska.gov/bsc/pub/MoneyservicesStatutes.pdf)<br>
 
 *Regulatory Citation of Money Transmitter Regulations*<br>
-+ -<br>
++ [3 AAC 13](http://commerce.alaska.gov/bsc/pub/MoneyservicesStatutes.pdf)<br>
 
 *Regulatory Citation of Licensing Requirement*<br>
 + -<br>
 
 *Link to Application for Money Transmitter License*<br>
-+ -<br>
++ [Application](http://commerce.alaska.gov/bsc/pub/msb4509.pdf)<br>
 
 *Prerequisites to Filing Application for MTB License*<br>
 + -<br>
@@ -91,59 +91,79 @@
 + -<br>
 
 *Statutory Definition of Money Transmission (Including Citation)*<br>
-+ -<br>
++ "Money Transmission" means selling or issuing payment instruments or stored value, or receiving money or monetary value for transmission, but does not include the provision solely of delivery, online services, telecommunications services, or network access [A.S.06.55.990(15)]<br>
 
 *Statutory Definition of Money Transmitter (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Statutory Definition of Other Relevant Terms (Including Citation)*<br>
-+ -<br>
++ "Money Transmission Licensee" means a person who holds a money services license and a person who is an authorized delegate. [A.S. 06.55.890(3)]<br>
++ "Money Services" means: money transmission or currency exchange [A.S. 06.55.990(12)]<br>
 
 *Regulatory Definition of Money Transmission (Including Citation)*<br>
-+ -<br>
++ Same<br>
 
 *Regulatory Definition of Money Transmitter (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Regulatory Definition of Other Relevant Terms (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Money Thresholds in Any Definition(s) of Money Transmitter or Money Transmission (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Any Statutory or Regulatory Exemptions from Definition of Money Transmitter (Including Citation)*<br>
-+ -<br>
++ <br>
 
 *Bond and/or Other Security Requirements (Including Citation)*<br>
-+ -<br>
++ Except as otherwise provided in (b) of this section, a surety bond, a letter of credit, or another similar security acceptable to the department in the amount of $25,000 plus $5,000 for each location, not exceeding a total addition of $125,000, must accompany an application for a money transmission license. [A.S. 06.55.104(a)]<br>
++ Security must be in a form satisfactory to the department and payable to the state for the benefit of a claimant against the money transmission licensee to secure the faithful performance of the obligations of the money transmission licensee with respect to money transmission. A.S. 06.55.104(b)]<br>
++ The aggregate liability on a surety bond may not exceed the principal sum of the bond. A claimant against a money transmission licensee may maintain an action on the bond, or the department may maintain an action on behalf of the claimant. A.S. 06.55.104(c)]<br>
++ An applicant for a money transmission license or for approval under AS 06.55.103 must provide, and must maintain at all times, security that satisfies the requirements of AS 06.55.104.  The security must secure the faithful performance of the obligations of the money transmission licensee, including its principals, responsible individuals, employees, and authorized delegates, with respect to money transmission. [3 AAC 13.030]<br>
 
 *Statutory and Regulatory Record Retention Requirements (Including Citation)*<br>
-+ -<br>
++ A.S 06.55.405 requires:<br>
+(a) A money services licensee shall maintain the following records for determining its compliance with this chapter for at least three years:<br>
+(1) A record of each payment instrument or stored-value obligation sold;<br>
+(2) A general ledger posted at least monthly containing all asset, liability, capital, income, and expense accounts;<br>
+(3) Bank statements and bank reconciliation records;<br>
+(4) Records of outstanding payment instruments and stored-value obligations;<br>
+(5) Records of each payment instrument and stored-value obligation paid within the three-year period;<br>
+(6) A list of the last known names and addresses of all of the money services licensee's authorized delegates; and<br>
+(7) Any other records the department reasonably requires by regulation.<br>
+(b) The items specified in (a) of this section may be maintained in any form of record.<br>
+(c) Records may be maintained outside this state if they are made accessible to the department on seven business days' notice that is sent in a record.<br>
+(d) All records maintained by the money services licensee as required in (a) - (c) of this section are open to inspection by the department under AS 06.55.401.
+[A.S. 06.55.405] <br>
++ In addition to the records required to be maintained under AS 06.55.405(a), a money transmission licensee shall maintain a record of money transmittals in accordance with 31 C.F.R. 103.33(f). [3 AAC 13.220]<br>
 
 *All Statutory and Regulatory Reporting Requirements (Including Citation)*<br>
-+ -<br>
++ A money services licensee and an authorized delegate shall file with the attorney general all reports required by federal currency reporting, record keeping, and suspicious transaction reporting requirements as set out in 31 U.S.C. 5311, 31 C.F.R. 103, and other federal and state laws pertaining to money laundering. [A.S. 06.55.406(a)]<br>
++ The timely filing of a complete and accurate report required under (a) of this section with the appropriate federal agency is compliance with the requirements of (a) of this section, unless the department notifies the money services licensee that the attorney general has notified the department that reports of this type are not being regularly and comprehensively transmitted by the federal agency to the attorney general. [A.S. 06.55.406(b)]<br>
 
 *Criminal Penalties, Including Class of Crime and Max Sentence (Including Citation)*<br>
-+ -<br>
++ A person who intentionally makes a false statement, misrepresentation, or false certification in a record filed or required to be maintained under this chapter or who intentionally makes a false entry or omits a material entry in a record filed or required to be maintained under this chapter is guilty of a class C felony. [A.S. 06.55.606(a)]<br>
++ A person who knowingly engages in an activity for which a money services license is required under this chapter without being licensed as a money services licensee and who receives more than $500 in compensation within a 30-day period from this activity is guilty of a class C felony. [A.S. Sec. 06.55.606(b)]<br>
++ A person who knowingly engages in an activity for which a money services license is required under this chapter without being licensed as a money services licensee and who receives no more than $500 in compensation within a 30-day period from this activity is guilty of a class A misdemeanor. [A.S. Sec. 06.55.606(c)]<br>
 
 *Civil Penalties (Including Citation)*<br>
-+ -<br>
++ The department may assess a civil penalty against a person who violates this chapter or a regulation adopted or an order issued under this chapter in an amount not to exceed $1,000 each day for each day the violation is outstanding. [A.S. 06.55.605]<br>
 
 ----
 
 **Arizona (AZ)**
 
 *Statutory Citation of Money Transmitter Laws*<br>
-+ -<br>
++ [ARS 6-1201 – 6-1242](http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp?Title=6)<br>
 
 *Statutory Citation of Licensing Requirement*<br>
-+ -<br>
++ [ARS 6-1202](http://www.azleg.state.az.us/FormatDocument.asp?inDoc=/ars/6/01202.htm&Title=6&DocType=ARS)<br>
 
 *Regulatory Citation of Money Transmitter Regulations*<br>
 + -<br>
 
 *Regulatory Citation of Licensing Requirement*<br>
-+ -<br>
++ <br>
 
 *Link to Application for Money Transmitter License*<br>
 + -<br>
@@ -155,13 +175,13 @@
 + -<br>
 
 *Statutory Definition of Money Transmission (Including Citation)*<br>
-+ -<br>
++ "Transmitting Money" means the transmission of money by any means including transmissions within this country or to or from locations abroad by payment instrument, wire, facsimile internet or any other electronic transfer, courier or otherwise. [6-1201(17)]<br>
 
 *Statutory Definition of Money Transmitter (Including Citation)*<br>
-+ -<br>
++ "Money transmitter" means a person who is located or doing business in this state, including a check casher and a foreign money exchanger, and who does any of the following: (a) Sells or issues payment instruments; (b) Engages in the business of receiving money for the transmission of or transmitting money; (c) Engages in the business of exchanging payment instruments or money into any form of money or payment instrument; (d) Engages in the business of receiving money for obligors for the purpose of paying that obligor's bills, invoices or accounts; (e) Meets the definition of a bank, financial agency or financial institution as prescribed by 31 United States Code section 5312 or 31 Code of Federal Regulations section 103.11. [6-1201(11)]<br>
 
 *Statutory Definition of Other Relevant Terms (Including Citation)*<br>
-+ -<br>
++ "Payment instrument" means a check, draft, money order, traveler's check or other instrument or order for the transmission or payment of money sold to one or more persons whether or not that instrument or order is negotiable. Payment instrument does not include an instrument that is redeemable by the issuer in merchandise or service, a credit card voucher or a letter of credit. [6-1201(13)]<br>
 
 *Regulatory Definition of Money Transmission (Including Citation)*<br>
 + -<br>
@@ -176,32 +196,35 @@
 + -<br>
 
 *Any Statutory or Regulatory Exemptions from Definition of Money Transmitter (Including Citation)*<br>
-+ -<br>
++ This chapter does not apply to: (1) the United States or any department or agency of the United States; and (2) this state, including any political subdivision of this state. [6-1203]<br>
++ This chapter does not apply to the following if engaged in the regular course of their respective businesses, except that the provisions of article 2 of this chapter apply to: (1) a bank, financial institution holding company, credit union, savings and loan association or savings bank, whether organized under the laws of any state or the United States when the term "money transmitter" is used; (2) a person who engages in check cashing or foreign money exchange and engages in other activity regulated under this chapter only as an authorized delegate of a licensee acting within the scope of the contract between the authorized delegate and the licensee; or (3) a person licensed pursuant to chapter 5, 6, 7 or 8 of this title, chapter 9, article 2 of this title, chapter 12.1 of this title or title 32, chapter 9. [6-1203]<br>
 
 *Bond and/or Other Security Requirements (Including Citation)*<br>
-+ -<br>
++ Each application for a license shall be accompanied by and each licensee shall maintain at all times a bond executed by the licensee as principal and a surety company authorized to do business in this state as surety. The bond shall be in the amount of twenty-five thousand dollars for a licensee with five or fewer authorized delegates and locations, one hundred thousand dollars for a licensee with more than five but fewer than twenty-one authorized delegates and locations and an additional five thousand dollars for each authorized delegate and location in excess of twenty but fewer than two hundred one authorized delegates and locations, to a maximum of two hundred fifty thousand dollars and an additional five thousand dollars for each authorized delegate and location in excess of two hundred authorized delegates and locations, to a maximum of five hundred thousand dollars. [6-1205]<br>
 
 *Statutory and Regulatory Record Retention Requirements (Including Citation)*<br>
-+ -<br>
++ Each licensee and authorized delegate shall preserve its records for at least five years after making the final entry on any transaction. Each authorized delegate shall keep records as required by the superintendent. [6-1213]<br>
++ See also [Regulatory Alert MT-08-01](http://www.azdfi.gov/LawsRulesPolicy/Forms/Regulatory_Bulletin_MT_08_01.pdf)<br>
 
 *All Statutory and Regulatory Reporting Requirements (Including Citation)*<br>
-+ -<br>
++ Each licensee shall file with the superintendent within forty-five days after the end of each fiscal quarter a consolidated financial statement including a balance sheet, income and expense statements and a list of all authorized delegates, branch managers, responsible individuals and locations within this state that have been added or terminated by the licensee within the fiscal quarter. Information regarding branch managers and responsible individuals shall include the information prescribed in section 6-1204, subsection A, paragraph 4. For locations and authorized delegates, the licensee shall include the name and street address of each location and authorized delegate. [6-1211]<br>
 
 *Criminal Penalties, Including Class of Crime and Max Sentence (Including Citation)*<br>
-+ -<br>
++ On request of the attorney general, a county attorney or the superintendent, a licensee, authorized delegate or money transmitter shall make any records that are created pursuant to this section available to the attorney general, a county attorney or the superintendent at any time. [6-1241]<br>
++ A person who refuses to permit any lawful investigation by the superintendent, a county attorney or the attorney general or who refuses to make records available to the superintendent, a county attorney or the attorney general pursuant to subsection H of this section is guilty of a class 6 felony. [6-1241]<br>
 
 *Civil Penalties (Including Citation)*<br>
-+ -<br>
++ <br>
 
 ----
 
 **Arkansas (AR)**
 
 *Statutory Citation of Money Transmitter Laws*<br>
-+ -<br>
++ [A.C.A. § 23-55-102 et seq.](http://law.justia.com/codes/arkansas/2010/title-23/subtitle-2/chapter-55/e/23-55-102/)<br>
 
 *Statutory Citation of Licensing Requirement*<br>
-+ -<br>
++ [A.C.A. § 23-55-201](http://law.justia.com/codes/arkansas/2010/title-23/subtitle-2/chapter-55/e/23-55-201/)<br>
 
 *Regulatory Citation of Money Transmitter Regulations*<br>
 + -<br>
@@ -210,7 +233,7 @@
 + -<br>
 
 *Link to Application for Money Transmitter License*<br>
-+ -<br>
++ [Application](http://www.securities.arkansas.gov/!userfiles/AR%20Money%20Services%20App%20and%20Attch%20rev%208_13_10(1).pdf)<br>
 
 *Prerequisites to Filing Application for MTB License*<br>
 + -<br>
@@ -219,7 +242,8 @@
 + -<br>
 
 *Statutory Definition of Money Transmission (Including Citation)*<br>
-+ -<br>
++ "Money transmission" means selling or issuing payment instruments, stored value, or receiving money or monetary value for transmission. [23-55-102(12)(A)]<br>
++ "Money transmission" does not include providing delivery services such as courier or package delivery services or acting as a mere conduit for the transmission of data.[23-55-102(12)(B)]<br>
 
 *Statutory Definition of Money Transmitter (Including Citation)*<br>
 + -<br>
